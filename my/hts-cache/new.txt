@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+04:28:40	6566/6566	---MCZ	200	added ('OK')	text/html	date:Wed,%2005%20May%202021%2009:44:26%20GMT	https://preview.colorlib.com/	C:/My%20Web%20Sites/my/preview.colorlib.com/index.html	(from )
+04:28:40	40/40	---MCZ	200	added ('OK')	text/plain	etag:W/%22e-5c01b2e3a6ac3-br%22	https://preview.colorlib.com/robots.txt		(from )
